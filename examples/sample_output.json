@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "sentence_id": "2530034",
+    "word": "中朝元首这些关键词值得关注",
+    "hot_value": 0,
+    "view_count": 0,
+    "video_count": null,
+    "discuss_video_count": 1,
+    "word_type": 14,
+    "event_time": null,
+    "label": 0,
+    "scraped_at": "2026-06-10T16:26:14.802679+00:00",
+    "parse_confidence": 1,
+    "warnings": []
+  },
+  {
+    "rank": 2,
+    "sentence_id": "2528589",
+    "word": "天热了就化这个降温妆",
+    "hot_value": 12083089,
+    "view_count": 65195828,
+    "video_count": 3,
+    "discuss_video_count": 1,
+    "word_type": 1,
+    "event_time": "2026-06-09T08:25:03+00:00",
+    "label": 8,
+    "scraped_at": "2026-06-10T16:26:14.802679+00:00",
+    "parse_confidence": 1,
+    "warnings": []
+  },
+  {
+    "rank": 3,
+    "sentence_id": "2529726",
+    "word": "上海市副市长陈宇剑被查",
+    "hot_value": 11832548,
+    "view_count": 69046728,
+    "video_count": 1,
+    "discuss_video_count": 1,
+    "word_type": 1,
+    "event_time": "2026-06-10T08:11:46+00:00",
+    "label": 3,
+    "scraped_at": "2026-06-10T16:26:14.802679+00:00",
+    "parse_confidence": 1,
+    "warnings": []
+  }
+]
